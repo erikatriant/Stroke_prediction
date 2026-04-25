@@ -3,7 +3,7 @@
 This project develops a machine learning model to predict stroke risk in patients based on clinical and demographic data. The dataset contains patient records with features such as age, BMI, glucose levels, hypertension and smoking status. The key challenges addressed during the analysis were: missing values, class imbalance and threshold optimization.
 
 ## Dataset
-The dataset contains 5,110 patient records with 12 features including demographic information (age, gender, residence type), lifestyle factors (smoking status, work type) and clinical measurements (BMI, average glucose level, hypertension, heart disease). The target variable is stroke (binary: 0/1). The dataset was provided as part of a university course project.
+The dataset contains 5,110 patient records with 12 features including demographic information (age, gender, residence type), lifestyle factors (smoking status, work type) and clinical measurements (BMI, average glucose level, hypertension, heart disease). The target variable is stroke. The dataset was provided as part of a university course project.
 
 ## Methodologies
 1. **Exploratory Data Analysis:** descriptive statistics, distribution of categorical variables and identification of missing values and class imbalance.
